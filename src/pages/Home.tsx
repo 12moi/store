@@ -8,8 +8,7 @@ export function Home() {
   
 <div className="p" >
   <p>You need a Shopping Cart to add your shopping list for your payments. Here is your perfect place to add your list</p>
-  <h6>Go to the Store!</h6>
-  <h5>We got you covered</h5>
+  <h5>Go to the Store!</h5>
   <a href="/store"><Button>Store</Button></a>
   </div>
   <div>
