@@ -12,7 +12,7 @@ export function Home() {
   <a href="/store"><Button>Store</Button></a>
   </div>
   <div>
-  <img src="/public/imgs/2.jpg" alt="#" style={{width: "500px", height:"400px"}}/>
+  <img src="/public/imgs/1.jpg" alt="#" style={{width: "500px", height:"400px"}}/>
   </div>
   </Container>
   <Footer/>
