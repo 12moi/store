@@ -11,8 +11,8 @@ export function Home() {
   <h5>We got you covered</h5>
   <a href="/store"><Button>Store</Button></a>
   </div>
-  <div className="image">
-  <img src="/public/imgs/4.jpg" alt="#" style={{width: "500px", height:"400px"}}/>
+  <div>
+  <img src="/public/imgs/2.jpg" alt="#" style={{width: "500px", height:"400px"}}/>
   </div>
   </Container>
   </>
