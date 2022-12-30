@@ -1,4 +1,4 @@
-import { Container } from "react-bootstrap";
+import { Button, Container } from "react-bootstrap";
 
 export function About() {
   return <>
@@ -7,9 +7,10 @@ export function About() {
   
 <div className="p" style={{margin:0 }}>
   <p>This is a Cart web App</p>
+  <a href="/store"><Button>Store</Button></a>
   </div>
   <div className="image">
-  <img src="/public/imgs/1.jpg" alt="#" style={{width: "500px"}}/>
+  <img src="/public/imgs/2.jpg" alt="#" style={{width: "500px", height:"400px"}}/>
   </div>
   </Container>
   </>
