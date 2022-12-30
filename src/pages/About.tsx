@@ -9,7 +9,7 @@ export function About() {
   <p>This is a Cart web App</p>
   </div>
   <div className="image">
-  <p>This is a Cart web App</p>
+  <img src="/public/imgs/1.jpg" alt="#" style={{width: "500px"}}/>
   </div>
   </Container>
   </>
