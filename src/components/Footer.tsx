@@ -18,7 +18,7 @@ const Footer = () => {
     >
    
     
-        <p>Store 2022 &copy;</p>
+        <p>Store 2022 &copy; Moi</p>
     </div>
   )
 }
