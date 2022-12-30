@@ -7,9 +7,9 @@ export function About() {
   <Container className="d-flex justify-content-between align-items-center ">
   
 <div className="p" >
-  <p>This is your shopping cart to add the list of your product to be bought.</p>
-  <h6>You need a Cart for your shopping ,</h6>
-  <h5>We got you covered</h5>
+  <p>Store is a  web app Store that allow addition of multiple items to a Shopping Cart for for buying.</p>
+  
+  <h5>Check out Available products!</h5>
   <a href="/store"><Button>Store</Button></a>
   </div>
   <div className="image">
