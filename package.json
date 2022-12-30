@@ -6,8 +6,8 @@
   "scripts": {
     "homepage": "http://12moi.github.io/store",
     "dev": "vite",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
