@@ -7,8 +7,8 @@ export function Home() {
   <Container className="d-flex justify-content-between align-items-center ">
   
 <div className="p" >
-  <p>This is your shopping cart to add the list of your product to be bought.</p>
-  <h6>You need a Cart for your shopping ,</h6>
+  <p>You need a Shopping Cart to add your shopping list for your payments. Here is your perfect place to add your list</p>
+  <h6>Go to the Store!</h6>
   <h5>We got you covered</h5>
   <a href="/store"><Button>Store</Button></a>
   </div>
